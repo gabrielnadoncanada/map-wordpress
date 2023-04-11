@@ -1,0 +1,57 @@
+{
+  "rooms": {
+    "-NKJyz0m0uj0iD6P_qAP": {
+      "details": {
+        "description": "Map description",
+        "name": "New map"
+      },
+      "objects": {
+        "-NKJz3UCoN4wbGJYj0NV": {
+          "color": "#634FF1",
+          "completed": false,
+          "coords": {
+            "-NKJz3UEYY4qf6qMcQJ-": {
+              "set": [
+                46.55886030311719,
+                -20.478515625000004
+              ]
+            },
+            "-NKJz3jnnGrBe_AlyQmx": {
+              "set": [
+                48.83579746243093,
+                -17.753906250000004
+              ]
+            },
+            "-NKJz3zJGy_1KK7zRiEj": {
+              "set": [
+                47.57652571374621,
+                -13.3154296875
+              ]
+            },
+            "-NKJz4XcM97gB2x2OgWG": {
+              "set": [
+                43.77109381775651,
+                -11.689453125000002
+              ]
+            },
+            "-NKJz5VL3fdxACbYQwQF": {
+              "set": [
+                46.55886030311719,
+                -20.390625000000004
+              ]
+            }
+          },
+          "desc": "",
+          "distance": 0,
+          "initlat": 46.55886030311719,
+          "initlng": -20.478515625000004,
+          "name": "Line",
+          "path": "",
+          "session": 0,
+          "type": "line",
+          "user": "oTozFaTyMwUY89EupnZEjYfV5WL2"
+        }
+      }
+    }
+  }
+}
